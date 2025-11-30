@@ -1,14 +1,11 @@
-\# Secure Branch Office Network Simulation (Cisco Packet Tracer)
+Secure Branch Office Network Simulation (Cisco Packet Tracer)
+
+
+Tool Used: Cisco Packet Tracer
 
 
 
-\## Tool Used
-
-Cisco Packet Tracer
-
-
-
-\## Project Overview
+Project Overview
 
 This project simulates a secure branch office network for a mid-sized financial services company.
 
@@ -18,7 +15,8 @@ Extended Access Control Lists (ACLs) and SSH for device management.
 
 
 
-\## Key Features
+
+Key Features
 
 \- VLAN segmentation for Administration, Sales, and IT departments
 
@@ -32,7 +30,8 @@ Extended Access Control Lists (ACLs) and SSH for device management.
 
 
 
-\## Skills Demonstrated
+
+Skills Demonstrated
 
 \- VLAN configuration
 
@@ -43,6 +42,7 @@ Extended Access Control Lists (ACLs) and SSH for device management.
 \- Secure device management
 
 \- Network testing and verification
+
 
 
 
