@@ -1,4 +1,4 @@
-\## IP Addressing Scheme
+IP Addressing Scheme
 
 
 
@@ -21,6 +21,7 @@ Each VLAN uses a /24 subnet under the 10.10.x.0 addressing scheme.
 Each end device was manually assigned an IP address within its VLAN subnet,
 
 with the router subinterface acting as the default gateway.
+
 
 
 
